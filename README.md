@@ -1,8 +1,12 @@
-<!--# 👋 Hi, I'm Abdiel!
+<div align="center">
 
-💻 I'm a student interested in technology, programming and creating new projects.
+<img src="./beach.png" alt="Beach" width="100%"/>
 
-🚀 I'm currently learning and improving my programming skills.
+</div>
+
+# 👋 Hi, I'm Abdiel!
+
+### 💻 Developer | 🎓 Student | 🤖 Tech Enthusiast
 
 ---
 
@@ -47,9 +51,11 @@
 ## 📂 My Projects
 
 ### 🤖 Robotics Project
+
 A personal project focused on learning about robotics, programming and artificial intelligence.
 
 ### 🎮 Game Development
+
 Exploring how videogames are created and learning about programming through game projects.
 
 ### 💡 More Projects Coming Soon...
@@ -68,30 +74,48 @@ Exploring how videogames are created and learning about programming through game
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 My Goals
 
-<div align="center">
+> **Learn → Build → Improve → Repeat**
 
-<img src="https://streak-stats.demolab.com?user=abdielg37&theme=tokyonight&hide_border=true"/>
-
-</div>
+🚀 Learn new technologies  
+💻 Build interesting projects  
+🤖 Explore robotics and AI  
+📚 Continue improving my programming skills  
+🌎 Create projects that can be useful to others  
 
 ---
 
-## 🎯 My Goals
+## 📈 Currently Learning
 
-```text
-Learn → Build → Improve → Repeat
-**abdielg37/abdielg37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Technology | Progress |
+|---|---|
+| 💻 Programming | ███████░░░ 70% |
+| 🌐 Web Development | ██████░░░░ 60% |
+| 🐍 Python | ██████░░░░ 60% |
+| 🤖 Robotics | ████░░░░░░ 40% |
+| 🧠 AI | ███░░░░░░░ 30% |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+📧 **Email:** your-email@example.com
+
+🐙 **GitHub:** [@abdielg37](https://github.com/abdielg37)
+
+---
+
+## ⚡ Fun Fact
+
+> "Every expert was once a beginner."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdielg37&color=blue&style=for-the-badge)
+
+</div>
